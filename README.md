@@ -1,5 +1,5 @@
 # Bem-Vindo(a)!
-#### Olá, meu nome é Italo, mas pode também me chamar de zosein. Atualmente me encontro em um processo de transição de carreira para a área de desenvolvimento de software, com foco também em UX/UI Design. Também sou graduando em Engenharia de Software (3º período), num processo contínuo de estudos e qualificação que me oportunizem uma primeira oportunidade profissional. 
+#### Olá, meu nome é Italo, mas pode também me chamar de zosein. Atualmente me encontro em um processo de transição de carreira para a área de desenvolvimento de software, com foco também em UX/UI Design. Também sou graduando em Engenharia de Software (3º período), em um processo contínuo de estudos, buscando a qualificação ideal que me oportunize uma primeira oportunidade profissional como desenvolvedor. 
 
 ## Hard Skills
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
