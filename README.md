@@ -1,5 +1,4 @@
 # Bem-Vindo(a)!
-#### Olá, meu nome é Italo. Atualmente me encontro em um processo de transição de carreira para a área de desenvolvimento de software. Também sou graduando em Engenharia de Software (5º período), em um processo contínuo de estudos, buscando a qualificação ideal que me oportunize uma primeira oportunidade profissional como desenvolvedor. 
 
 ## Hard Skills
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
@@ -12,17 +11,6 @@
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-## Soft Skills
-
-#### Comunicação
-#### Trabalho em Equipe
-#### Criatividade
-#### Pensamento Crítico
-#### Adaptabilidade
-#### Facilidade de Aprendizado
-#### Design Thinking
-#### Competência Analítica
 
 ## Conecte-se comigo através:
 
