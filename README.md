@@ -1,5 +1,5 @@
 # Bem-Vindo(a)!
-#### Olá, meu nome é Italo, mas pode também me chamar de zosein. Atualmente me encontro em um processo de transição de carreira para a área de desenvolvimento de software. Também sou graduando em Engenharia de Software (4º período), em um processo contínuo de estudos, buscando a qualificação ideal que me oportunize uma primeira oportunidade profissional como desenvolvedor. 
+#### Olá, meu nome é Italo. Atualmente me encontro em um processo de transição de carreira para a área de desenvolvimento de software. Também sou graduando em Engenharia de Software (5º período), em um processo contínuo de estudos, buscando a qualificação ideal que me oportunize uma primeira oportunidade profissional como desenvolvedor. 
 
 ## Hard Skills
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
@@ -26,8 +26,6 @@
 
 ## Conecte-se comigo através:
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/italoledz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/arthurgalanti/)](https://www.linkedin.com/in/italoanc/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:italoledz@gmail.com)
 
 ## GitHub Stats
