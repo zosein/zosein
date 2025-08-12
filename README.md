@@ -1,4 +1,4 @@
-#  Olá! Bem-Vindos! ![Profile Views](https://komarev.com/ghpvc/?username=zosein&color=36BCF7&style=flat-square&label=Visitantes)
+#  Olá! Bem-Vindos! ![Profile Views](https://komarev.com/ghpvc/?username=zosein&color=blueviolet&style=flat-square&label=Visitantes)
 
 <div align="center">
 
@@ -9,11 +9,10 @@
 
 ##  Sobre mim
 
-Sou **Estudante de Engenharia de Software** em busca da **primeira oportunidade** para atuar em Desenvolvimento de Software.
+**Estudante de Engenharia de Software** em busca da **primeira oportunidade** para atuar em Desenvolvimento de Software.
 
-🎯 **Foco atual:** Solidificar conhecimentos na plataforma **.NET** e linguagem **C#**
+🎯 **Foco atual:** Solidificar conhecimentos na plataforma **.NET** e linguagem **C#** visando primeira oportunidade de atuação profissional.
 
-💡 **Missão:** Transformar minha vida profissional através da tecnologia, aplicando conhecimentos em ambientes práticos e contribuindo para soluções de impacto real na vida das pessoas.
 
 ---
 
@@ -50,6 +49,14 @@ Sou **Estudante de Engenharia de Software** em busca da **primeira oportunidade*
 </div>
 
 ---
+###  **Soft Skills**
+- 🗣️ **Comunicação Clara** - Traduzindo necessidades técnicas em soluções eficazes
+- 👥 **Trabalho em Equipe** - Experiência comprovada em projetos multidisciplinares
+- 🧠 **Pensamento Crítico** - Abordagem analítica para resolver problemas complexos
+- 🚀 **Mentalidade Ágil** - Adaptação rápida a novos desafios
+- 📈 **Autodesenvolvimento** - Proatividade no crescimento técnico e pessoal
+
+---
 
 ## 📚 Projetos em Destaque
 
@@ -68,25 +75,6 @@ Sou **Estudante de Engenharia de Software** em busca da **primeira oportunidade*
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zosein&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zosein&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
----
-
-##  Competências & Habilidades
-
-###  **Soft Skills**
-- 🗣️ **Comunicação Clara** - Traduzindo necessidades técnicas em soluções eficazes
-- 👥 **Trabalho em Equipe** - Experiência comprovada em projetos multidisciplinares
-- 🧠 **Pensamento Crítico** - Abordagem analítica para resolver problemas complexos
-- 🚀 **Mentalidade Ágil** - Adaptação rápida a novos desafios
-- 📈 **Autodesenvolvimento** - Proatividade no crescimento técnico e pessoal
-
-###  **Hard Skills**
-- ✅ Desenvolvimento em **C#** e plataforma **.NET**
-- ✅ Manipulação de **Banco de Dados SQL**
-- ✅ Implementação de **APIs REST**
-- ✅ **Versionamento** com Git e GitHub
-- ✅ **Resolução de Problemas** com foco em qualidade
-
 
 ---
 
