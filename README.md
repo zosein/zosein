@@ -72,7 +72,10 @@
 ##  Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zosein&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Ir para a Fonte">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zosein&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+  </a>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zosein&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
