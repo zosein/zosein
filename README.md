@@ -9,7 +9,7 @@
 
 ##  Sobre mim
 
-**Estudante de Engenharia de Software** e desenvolvedor .NET com foco em desenvolvimento backend.
+**Estudante de Engenharia de Software** e desenvolvedor .NET com foco em desenvolvimento back-end.
 
 🎯 **Foco atual:** Solidificar conhecimentos na plataforma **.NET** e linguagem **C#**, com ênfase em APIs RESTful, Design patterns e boas práticas de desenvolvimento.
 💡 **Abordagem**: Busco compreender não apenas o "como", mas o "porquê" por trás das tecnologias, construindo uma base sólida para resolver problemas complexos de forma eficiente.
