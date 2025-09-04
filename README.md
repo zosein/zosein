@@ -1,10 +1,15 @@
-#  Olá! Bem-Vindos ao meu perfil! ![Profile Views](https://komarev.com/ghpvc/?username=zosein&color=blueviolet&style=flat-square&label=Visitantes)
+#  Olá! bem-vindos ao meu perfil! ![Profile Views](https://komarev.com/ghpvc/?username=zosein&color=blueviolet&style=flat-square&label=Visitantes)
 
 <div align="center">
 
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3333FF&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+.NET+%7C+C%23;)
   
+</div>
+<div align="center">
+
+  ![Banner GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk0MGhramhlZThsMThjczJ6dzdrNHpiY2Jhbjl2cGl0NGJvaXh3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 </div>
 
 ##  Sobre mim
