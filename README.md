@@ -29,7 +29,7 @@
 ### 💻 Linguagens & Frameworks
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,python,react" />
   </a>
 </div>
 
