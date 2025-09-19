@@ -3,7 +3,7 @@
 <div align="center">
 
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3333FF&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+.NET+%7C+C%23;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3333FF&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+de+Software;)
   
 </div>
 <div align="center">
@@ -14,7 +14,7 @@
 
 ##  Sobre mim
 
-**Estudante de Engenharia de Software** e desenvolvedor .NET com foco em desenvolvimento back-end.
+**Estudante de Engenharia de Software** e desenvolvedor com foco em desenvolvimento back-end, mas com noções de front-end.
 
 🎯 **Foco atual:** Solidificar conhecimentos na plataforma **.NET** e linguagem **C#**, com ênfase em APIs RESTful, Design patterns e boas práticas de desenvolvimento.
 
