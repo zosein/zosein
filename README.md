@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/italoanc)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/italoangc)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:italoledz@gmail.com)
 
 
