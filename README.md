@@ -1,4 +1,4 @@
-#  Olá! bem-vindos ao meu perfil! ![Profile Views](https://komarev.com/ghpvc/?username=zosein&color=blueviolet&style=flat-square&label=Visitantes)
+#  Olá! Bem-vindos ao meu perfil! ![Profile Views](https://komarev.com/ghpvc/?username=zosein&color=blueviolet&style=flat-square&label=Visitantes)
 
 <div align="center">
 
@@ -14,11 +14,7 @@
 
 ##  Sobre mim
 
-**Estudante de Engenharia de Software** e desenvolvedor com foco em desenvolvimento back-end, mas com noções de front-end.
-
-🎯 **Foco atual:** Solidificar conhecimentos na plataforma **.NET** e linguagem **C#**, com ênfase em APIs RESTful, Design patterns e boas práticas de desenvolvimento.
-
-💡 **Abordagem**: Busco compreender não apenas o "como", mas o "porquê" por trás das tecnologias, construindo uma base sólida para resolver problemas complexos de forma eficiente.
+**Estudante de Engenharia de Software** e desenvolvedor com foco em desenvolvimento back-end, mas que também se arrisca e aceita desafios no front-end.
 
 ---
 
@@ -56,11 +52,11 @@
 
 ---
 ###  **Soft Skills**
-- 🗣️ **Comunicação Clara** - Traduzindo necessidades técnicas em soluções eficazes
-- 👥 **Trabalho em Equipe** - Experiência comprovada em projetos multidisciplinares
-- 🧠 **Pensamento Crítico** - Abordagem analítica para resolver problemas complexos
-- 🚀 **Mentalidade Ágil** - Adaptação rápida a novos desafios
-- 📈 **Autodesenvolvimento** - Proatividade no crescimento técnico e pessoal
+- **Comunicação Clara** - Traduzindo necessidades técnicas em soluções eficazes
+- **Trabalho em Equipe** - Experiência comprovada em projetos multidisciplinares
+- **Pensamento Crítico** - Abordagem analítica para resolver problemas complexos
+- **Mentalidade Ágil** - Adaptação rápida a novos desafios
+- **Autodesenvolvimento** - Proatividade no crescimento técnico e pessoal
 
 ---
 
