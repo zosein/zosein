@@ -60,21 +60,7 @@
 
 ---
 
-## 📚 Projetos em Destaque
 
-<div align="center">
-
-  <a href="https://github.com/zosein/ContabiliHub-API">
-    <img src="https://metrics.lecoq.io/zosein?template=repository&repo=ContabiliHub-API&theme=tokyonight" alt="ContabiliHub-API" />
-  </a>
-
-  <a href="https://github.com/zosein/lumibook-prototipo">
-    <img src="https://metrics.lecoq.io/zosein?template=repository&repo=lumibook-prototipo&theme=tokyonight" alt="lumibook-prototipo" />
-  </a>
-
-</div>
-
----
 
 ## 📊 Estatísticas GitHub
 
